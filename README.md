@@ -2,7 +2,7 @@
 
 ShinyR application to visualisation the results from dynamic Bayesian network analysis applied to a microarray time course after exposing the major malaria vector *Anopheles coluzzii* to a WHO deltamethrin tube assay. [Full analysis instructions found here](https://github.com/FrankD/AnophelesInsecticideExposure).
 
-Download the files in the repository, open in R studio and select 'Run App'.
+Download the files in the repository and put them in the same folder, open 'Network_Visualisation2.R' in R studio and select 'Run App'.
 
 Posterior probability used for display can be selected using the slider.
 
