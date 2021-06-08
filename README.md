@@ -1,4 +1,4 @@
-## Network Visualisation for Ingham et al. 2020
+## Network Visualisation for Ingham et al. 2021
 
 ShinyR application to visualisation the results from dynamic Bayesian network analysis applied to a microarray time course after exposing the major malaria vector *Anopheles coluzzii* to a WHO deltamethrin tube assay. [Full analysis instructions found here](https://github.com/FrankD/AnophelesInsecticideExposure).
 
